@@ -4,11 +4,11 @@ Four completed Machine Learning tasks, each in its own Jupyter notebook.
 
 ## Results
 
-Tasks:
-1. Iris Classification: Logistic Regression, Decision Tree (96.7% accuracy)
-2. Housing Price Prediction: OLS, Ridge, Lasso (R² 0.641)
-3. Customer Churn Prediction: Random Forest, XGBoost (ROC-AUC 0.832)
-4. Sentiment Classification: Naive Bayes, Logistic Regression , Working pipeline
+**Tasks:**
+1. Multi-Class Benchmark Classification Pipeline (Iris / Wine): Logistic Regression, Decision Tree (96.7% accuracy)
+2. Real Estate Housing Price Prediction (Ridge & Lasso Regression): OLS, Ridge, Lasso (R² 0.641)
+3. Predictive Customer Churn Classifier (Random Forest & XGBoost): Random Forest, XGBoost (ROC-AUC 0.832)
+4. NLP Sentiment Classification on Customer Reviews (TF-IDF): Naive Bayes, Logistic Regression , Working pipeline
 
    Note: Only 9 reviews in the provided dataset, so accuracy is not meaningful.
 
@@ -24,16 +24,16 @@ Tasks:
 
 ## Project Structure
 
-1. Task_1 (Iris_Classification):
+1. Task_1 (Multi-Class Benchmark Classification Pipeline (Iris / Wine)):
     - Task_1.ipynb
     - iris.csv
-2. Task_2 (Housing_Regression):
+2. Task_2 (Real Estate Housing Price Prediction (Ridge & Lasso Regression)):
     - Task_2.ipynb
     - housing.csv
-3. Task_3 (Churn_Prediction):
+3. Task_3 (Predictive Customer Churn Classifier (Random Forest & XGBoost)):
     - Task_3.ipynb
     - Telco-Customer-Churn.csv
-4. Task_4 (Sentiment_NLP):
+4. Task_4 (NLP Sentiment Classification on Customer Reviews (TF-IDF)):
     - Task_4.ipynb
     - sentiment_reviews.csv
 
