@@ -1,6 +1,6 @@
 # Datheon_Machine_Learning:_Data_Science_Internship.
 
-Four completed ML tasks, each in its own Jupyter notebook.
+Four completed Machine Learning tasks, each in its own Jupyter notebook.
 
 ## Results
 
