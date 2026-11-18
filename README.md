@@ -9,8 +9,7 @@ Tasks:
 2. Housing Price Prediction: OLS, Ridge, Lasso (R² 0.641)
 3. Customer Churn Prediction: Random Forest, XGBoost (ROC-AUC 0.832)
 4. Sentiment Classification: Naive Bayes, Logistic Regression , Working pipeline
-
-*Only 9 reviews in the provided dataset, so accuracy is not meaningful.
+   Note: Only 9 reviews in the provided dataset, so accuracy is not meaningful.
 
 ## Task Summaries
 
@@ -20,20 +19,20 @@ Tasks:
 
 **Task 3:** Balances the churn class with SMOTE and compares two ensemble models using ROC curves and feature importances.
 
-**Task 4:** Cleans text, builds TF-IDF features, and includes a `predict_sentiment()` function for custom input.
+**Task 4:** Cleans text, builds TF-IDF features, and includes a predict_sentiment() function for custom input.
 
 ## Project Structure
 
 1. Task_1_Iris_Classification:
     - Task_1.ipynb
     - iris.csv
-2. Task_2_Housing_Regression/
+2. Task_2_Housing_Regression:
     - Task_2.ipynb
     - housing.csv
-3. Task_3_Churn_Prediction/
+3. Task_3_Churn_Prediction:
     - Task_3.ipynb
     - Telco-Customer-Churn.csv
-4. Task_4_Sentiment_NLP/
+4. Task_4_Sentiment_NLP:
     - Task_4.ipynb
     - sentiment_reviews.csv
 
