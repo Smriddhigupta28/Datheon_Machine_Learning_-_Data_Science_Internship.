@@ -9,6 +9,7 @@ Tasks:
 2. Housing Price Prediction: OLS, Ridge, Lasso (R² 0.641)
 3. Customer Churn Prediction: Random Forest, XGBoost (ROC-AUC 0.832)
 4. Sentiment Classification: Naive Bayes, Logistic Regression , Working pipeline
+
    Note: Only 9 reviews in the provided dataset, so accuracy is not meaningful.
 
 ## Task Summaries
