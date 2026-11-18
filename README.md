@@ -24,16 +24,16 @@ Four completed Machine Learning tasks, each in its own Jupyter notebook.
 
 ## Project Structure
 
-1. Task_1 (Multi-Class Benchmark Classification Pipeline (Iris / Wine)):
+1. **Task_1 (Multi-Class Benchmark Classification Pipeline (Iris / Wine))**:
     - Task_1.ipynb
     - iris.csv
-2. Task_2 (Real Estate Housing Price Prediction (Ridge & Lasso Regression)):
+2. **Task_2 (Real Estate Housing Price Prediction (Ridge & Lasso Regression))**:
     - Task_2.ipynb
     - housing.csv
-3. Task_3 (Predictive Customer Churn Classifier (Random Forest & XGBoost)):
+3. **Task_3 (Predictive Customer Churn Classifier (Random Forest & XGBoost))**:
     - Task_3.ipynb
     - Telco-Customer-Churn.csv
-4. Task_4 (NLP Sentiment Classification on Customer Reviews (TF-IDF)):
+4. **Task_4 (NLP Sentiment Classification on Customer Reviews (TF-IDF))**:
     - Task_4.ipynb
     - sentiment_reviews.csv
 
